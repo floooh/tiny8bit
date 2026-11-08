@@ -1574,6 +1574,96 @@
     "debug": true
   },
   {
+    "id": "lft_nine",
+    "type": "demo",
+    "title": "Nine",
+    "description": "by LFT",
+    "system": "C64",
+    "systemName": "C64",
+    "screenshot": "c64/lft_nine.webp",
+    "wasm": "c64.html",
+    "params": {
+      "file": "c64/lft_nine.prg"
+    },
+    "help": "help/default.md",
+    "debug": true
+  },
+  {
+    "id": "aurora3",
+    "type": "demo",
+    "title": "Aurora Dreams",
+    "description": "by Pretzel Logic",
+    "system": "C64",
+    "systemName": "C64",
+    "screenshot": "c64/aurora3.webp",
+    "wasm": "c64.html",
+    "params": {
+      "file": "c64/aurora3.prg"
+    },
+    "help": "help/default.md",
+    "debug": true
+  },
+  {
+    "id": "daah_those_acid_pills",
+    "type": "demo",
+    "title": "Daah, Those Acid Pills!",
+    "description": "by Censor Design",
+    "system": "C64",
+    "systemName": "C64",
+    "screenshot": "c64/daah_those_acid_pills.webp",
+    "wasm": "c64.html",
+    "params": {
+      "file": "c64/daah_those_acid_pills.prg"
+    },
+    "help": "help/default.md",
+    "debug": true
+  },
+  {
+    "id": "pac_grey",
+    "type": "demo",
+    "title": "Grey",
+    "description": "by Pac",
+    "system": "C64",
+    "systemName": "C64",
+    "screenshot": "c64/pac_grey.webp",
+    "wasm": "c64.html",
+    "params": {
+      "file": "c64/pac_grey.prg"
+    },
+    "help": "help/default.md",
+    "debug": true
+  },
+  {
+    "id": "plast_ninja",
+    "type": "demo",
+    "title": "Plast Ninja",
+    "description": "by Elysium",
+    "system": "C64",
+    "systemName": "C64",
+    "screenshot": "c64/plast_ninja.webp",
+    "wasm": "c64.html",
+    "params": {
+      "file": "c64/plast_ninja.prg"
+    },
+    "help": "help/default.md",
+    "debug": true
+  },
+  {
+    "id": "supernoise_vol50",
+    "type": "demo",
+    "title": "SuperNoise Vol.50",
+    "description": "by EXclusive ON",
+    "system": "C64",
+    "systemName": "C64",
+    "screenshot": "c64/supernoise_vol50.webp",
+    "wasm": "c64.html",
+    "params": {
+      "file": "c64/supernoise_vol50.prg"
+    },
+    "help": "help/default.md",
+    "debug": true
+  },
+  {
     "id": "proxima_ppy",
     "type": "demo",
     "title": "PPY",
